@@ -1,0 +1,76 @@
+{
+  "clients": [
+    {
+      "id": "2",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "jane.doe@example.com",
+      "phone": "555-012-3456",
+      "image": "https://i.pravatar.cc/150?img=1",
+      "address": {
+        "address": "456 Oak Ave",
+        "city": "London",
+        "country": "UK"
+      },
+      "company": "Lumina Media Group",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "3",
+      "firstName": "Marcus",
+      "lastName": "Sterling",
+      "email": "m.sterling@apex.co",
+      "phone": "44-20-7946-0123",
+      "image": "https://i.pravatar.cc/150?img=11",
+      "address": {
+        "address": "789 Pine Rd",
+        "city": "Toronto",
+        "country": "Canada"
+      },
+      "company": "Apex Ventures",
+      "role": "Moderator",
+      "status": "Inactive"
+    },
+    {
+      "id": "4",
+      "firstName": "Sophia",
+      "lastName": "Carter",
+      "email": "sophia.carter@global.com",
+      "phone": "123-456-7890",
+      "image": "https://i.pravatar.cc/150?img=5",
+      "address": {
+        "address": "321 Elm St",
+        "city": "Sydney",
+        "country": "Australia"
+      },
+      "company": "Global Tech",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "5",
+      "firstName": "Liam",
+      "lastName": "Davis",
+      "email": "ldavis@finance.co",
+      "phone": "987-654-3210",
+      "image": "https://i.pravatar.cc/150?img=8",
+      "address": {
+        "address": "654 Maple Dr",
+        "city": "Chicago",
+        "country": "USA"
+      },
+      "company": "Finance Co",
+      "role": "Admin",
+      "status": "Active"
+    }
+  ],
+  "profile": {
+    "id": "1",
+    "username": "ismoil.o6",
+    "email": "admin@nexuscrm.comawdawd",
+    "image": "https://i.pravatar.cc/150?img=33",
+    "role": "System Admin"
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
