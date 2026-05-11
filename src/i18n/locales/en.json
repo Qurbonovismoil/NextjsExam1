@@ -1,0 +1,59 @@
+{
+  "sidebar": {
+    "admin_portal": "Admin Portal",
+    "dashboard": "Dashboard",
+    "clients": "Clients",
+    "settings": "Settings",
+    "logout": "Logout",
+    "my_profile": "My Profile",
+    "loading": "Loading..."
+  },
+  "clients": {
+    "title": "Clients Directory",
+    "description": "Manage your client relationships and contact information.",
+    "search": "Search in page...",
+    "add_client": "Add Client",
+    "error_loading": "Error Loading Clients",
+    "error_desc": "There was a problem fetching the client directory. Is json-server running on port 3001?",
+    "try_again": "Try Again",
+    "no_clients": "No Clients Found",
+    "no_clients_search": "No clients match your search criteria. Try a different term.",
+    "no_clients_empty": "You haven't added any clients yet. Start building your directory.",
+    "clear_search": "Clear Search",
+    "table_client": "Client",
+    "table_contact": "Contact",
+    "table_company": "Company",
+    "table_role": "Role",
+    "table_status": "Status",
+    "table_actions": "Actions",
+    "showing": "Showing",
+    "to": "to",
+    "of": "of",
+    "clients_count": "clients"
+  },
+  "modals": {
+    "add_title": "Add New Client",
+    "edit_title": "Edit Client",
+    "delete_title": "Delete Client?",
+    "delete_desc": "This action cannot be undone. This will permanently remove the client from the database.",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "deleting": "Deleting...",
+    "adding": "Adding...",
+    "saving": "Saving...",
+    "save_changes": "Save Changes",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "company": "Company",
+    "role": "Role",
+    "status": "Status",
+    "username": "Username",
+    "save_profile": "Save Profile"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  }
+}

@@ -3,7 +3,7 @@ import { cn } from "@/lib/utils"
 
 const Table = React.forwardRef<HTMLTableElement, React.HTMLAttributes<HTMLTableElement>>(
   ({ className, ...props }, ref) => (
-    <div className="relative w-full overflow-auto rounded-xl border border-white/10 bg-white/5">
+    <div className="relative w-full overflow-auto rounded-xl border dark:border-white/10 border-slate-200 dark:bg-white/5 bg-slate-50">
       <table
         ref={ref}
         className={cn("w-full caption-bottom text-sm", className)}
@@ -16,7 +16,7 @@ Table.displayName = "Table"
 
 const TableHeader = React.forwardRef<HTMLTableSectionElement, React.HTMLAttributes<HTMLTableSectionElement>>(
   ({ className, ...props }, ref) => (
-    <thead ref={ref} className={cn("border-b border-white/10 bg-white/5", className)} {...props} />
+    <thead ref={ref} className={cn("border-b dark:border-white/10 border-slate-200 dark:bg-white/5 bg-slate-100", className)} {...props} />
   )
 )
 TableHeader.displayName = "TableHeader"
@@ -32,7 +32,7 @@ const TableRow = React.forwardRef<HTMLTableRowElement, React.HTMLAttributes<HTML
   ({ className, ...props }, ref) => (
     <tr
       ref={ref}
-      className={cn("border-b border-white/5 transition-colors hover:bg-white/5", className)}
+      className={cn("border-b dark:border-white/5 border-slate-100 transition-colors hover:dark:bg-white/5 hover:bg-slate-50", className)}
       {...props}
     />
   )
@@ -43,7 +43,7 @@ const TableHead = React.forwardRef<HTMLTableCellElement, React.ThHTMLAttributes<
   ({ className, ...props }, ref) => (
     <th
       ref={ref}
-      className={cn("h-12 px-4 text-left align-middle font-bold text-[10px] uppercase tracking-wider text-white/40", className)}
+      className={cn("h-12 px-4 text-left align-middle font-bold text-[10px] uppercase tracking-wider dark:text-white/40 text-slate-500", className)}
       {...props}
     />
   )

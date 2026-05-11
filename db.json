@@ -33,22 +33,6 @@
       "status": "Inactive"
     },
     {
-      "id": "4",
-      "firstName": "Sophia",
-      "lastName": "Carter",
-      "email": "sophia.carter@global.com",
-      "phone": "123-456-7890",
-      "image": "https://i.pravatar.cc/150?img=5",
-      "address": {
-        "address": "321 Elm St",
-        "city": "Sydney",
-        "country": "Australia"
-      },
-      "company": "Global Tech",
-      "role": "User",
-      "status": "Active"
-    },
-    {
       "id": "5",
       "firstName": "Liam",
       "lastName": "Davis",
@@ -62,6 +46,166 @@
       },
       "company": "Finance Co",
       "role": "Admin",
+      "status": "Active"
+    },
+    {
+      "id": "6",
+      "firstName": "Elena",
+      "lastName": "Rios",
+      "email": "elena.rios@designhub.net",
+      "phone": "555-123-9876",
+      "image": "https://i.pravatar.cc/150?img=5",
+      "address": {
+        "address": "1200 Market St",
+        "city": "San Francisco",
+        "country": "USA"
+      },
+      "company": "Design Hub",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "7",
+      "firstName": "Hiro",
+      "lastName": "Tanaka",
+      "email": "hiro.t@techcore.jp",
+      "phone": "+81-90-1234-5678",
+      "image": "https://i.pravatar.cc/150?img=15",
+      "address": {
+        "address": "Minato-ku",
+        "city": "Tokyo",
+        "country": "Japan"
+      },
+      "company": "Tech Core",
+      "role": "Admin",
+      "status": "Active"
+    },
+    {
+      "id": "8",
+      "firstName": "Sophia",
+      "lastName": "Martinez",
+      "email": "smartinez@globaltrade.com",
+      "phone": "305-555-4321",
+      "image": "https://i.pravatar.cc/150?img=9",
+      "address": {
+        "address": "Brickell Ave",
+        "city": "Miami",
+        "country": "USA"
+      },
+      "company": "Global Trade",
+      "role": "Moderator",
+      "status": "Active"
+    },
+    {
+      "id": "9",
+      "firstName": "Alexander",
+      "lastName": "Ivanov",
+      "email": "alex.ivanov@sputnik.ru",
+      "phone": "+7-900-555-7788",
+      "image": "https://i.pravatar.cc/150?img=12",
+      "address": {
+        "address": "Tverskaya St",
+        "city": "Moscow",
+        "country": "Russia"
+      },
+      "company": "Sputnik Logistics",
+      "role": "User",
+      "status": "Inactive"
+    },
+    {
+      "id": "10",
+      "firstName": "Chloe",
+      "lastName": "Dubois",
+      "email": "chloe.d@mode.fr",
+      "phone": "+33-6-12-34-56-78",
+      "image": "https://i.pravatar.cc/150?img=20",
+      "address": {
+        "address": "Champs-Elysees",
+        "city": "Paris",
+        "country": "France"
+      },
+      "company": "Mode Fashion",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "11",
+      "firstName": "William",
+      "lastName": "Chen",
+      "email": "w.chen@nextgen.sg",
+      "phone": "+65-8123-4567",
+      "image": "https://i.pravatar.cc/150?img=13",
+      "address": {
+        "address": "Orchard Road",
+        "city": "Singapore",
+        "country": "Singapore"
+      },
+      "company": "NextGen Solutions",
+      "role": "Admin",
+      "status": "Active"
+    },
+    {
+      "id": "12",
+      "firstName": "Amelia",
+      "lastName": "Taylor",
+      "email": "amelia.t@healthplus.org",
+      "phone": "020-7946-0987",
+      "image": "https://i.pravatar.cc/150?img=25",
+      "address": {
+        "address": "Baker St",
+        "city": "London",
+        "country": "UK"
+      },
+      "company": "Health Plus",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "13",
+      "firstName": "Lucas",
+      "lastName": "Silva",
+      "email": "lucas.silva@agro.br",
+      "phone": "+55-11-98765-4321",
+      "image": "https://i.pravatar.cc/150?img=18",
+      "address": {
+        "address": "Paulista Ave",
+        "city": "Sao Paulo",
+        "country": "Brazil"
+      },
+      "company": "Agro Exports",
+      "role": "Moderator",
+      "status": "Inactive"
+    },
+    {
+      "id": "14",
+      "firstName": "Mia",
+      "lastName": "Jensen",
+      "email": "mia.jensen@nordic.dk",
+      "phone": "+45-20-12-34-56",
+      "image": "https://i.pravatar.cc/150?img=31",
+      "address": {
+        "address": "Nyhavn",
+        "city": "Copenhagen",
+        "country": "Denmark"
+      },
+      "company": "Nordic Designs",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "15",
+      "firstName": "Omar",
+      "lastName": "Farooq",
+      "email": "omar.f@buildcorp.ae",
+      "phone": "+971-50-123-4567",
+      "image": "https://i.pravatar.cc/150?img=53",
+      "address": {
+        "address": "Sheikh Zayed Rd",
+        "city": "Dubai",
+        "country": "UAE"
+      },
+      "company": "Build Corp",
+      "role": "User",
       "status": "Active"
     }
   ],
